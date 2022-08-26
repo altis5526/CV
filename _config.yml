@@ -54,13 +54,13 @@ about_content: | # this will include new lines to allow paragraphs
   Programming skills:
   <b>C/C++</b>, <b>Python (PyTorch, OpenCV)</b>, <b>Web Programming</b>, iiiiiiiiiiiiiii
 
-content:
-  - title: Awards
-    layout: list
-    content:
-      - layout: top-middle
-        description: | 
-        Award 1
+# content:
+#   - title: Awards
+#     layout: list
+#     content:
+#       - layout: top-middle
+#         description: | 
+#         Award 1
 
 content:
   - title: Awards # Title for the section
