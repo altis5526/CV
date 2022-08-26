@@ -59,7 +59,8 @@ content:
     layout: list
     content:
       - layout: top-middle
-        description: Award 1
+        description: | 
+        Award 1
 
 content:
   - title: Projects # Title for the section
