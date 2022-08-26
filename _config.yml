@@ -16,16 +16,16 @@ darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  altis5526
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: 陳祺侑
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: tommya5526
+linkedin_username: Chi-Yu Chen
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   My research interest includes <b>explainable AI model</b>, <b>computer vision</b>, and <b>smart medicine</b>.
 
   Programming skills:
-  C/C++, Python(PyTorch, OpenCV), Web Programming
+  <b>C/C++</b>, <b>Python (PyTorch, OpenCV)</b>, <b>Web Programming</b>
 
 content:
   - title: Projects # Title for the section
