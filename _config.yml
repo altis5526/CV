@@ -19,10 +19,10 @@ twitter_username: facespics
 github_username:  altis5526
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: 陳祺侑
+facebook_username: tommy.chen.7165331
 # flickr_username: jekyll
 instagram_username: tommya5526
-linkedin_username: Chi-Yu Chen
+linkedin_username: chi-yu-chen-10a149221
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: Chi-Yu Chen
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -53,6 +53,13 @@ about_content: | # this will include new lines to allow paragraphs
 
   Programming skills:
   <b>C/C++</b>, <b>Python (PyTorch, OpenCV)</b>, <b>Web Programming</b>
+
+content:
+  - title: Awards
+    layout: list
+    content:
+      - layout: top-middle
+        description: Award 1
 
 content:
   - title: Projects # Title for the section
