@@ -48,8 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Chi-Yu, Chen, currently a fifth grade medical student with a minor in computer science in National Yang Ming Chiao Tung University, Taiwan. 
-  My research interest includes explainable AI model, computer vision, and smart medicine.
+  Hi, I'm Chi-Yu, Chen, currently a **fifth grade medical student with a minor in computer science** in **National Yang Ming Chiao Tung University, Taiwan**. 
+  My research interest includes **explainable AI model**, **computer vision**, and **smart medicine**.
 
   Programming skills:
   C/C++, Python(PyTorch, OpenCV), Web Programming
