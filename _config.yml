@@ -9,7 +9,7 @@ version: 2
 name: Chi-Yu Chen
 title: Medical student
 email: altis5526@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://altis5526.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I'm Chi-Yu, Chen, currently a fifth grade medical student with a minor in computer science in National Yang Ming Chiao Tung University, Taiwan. 
+  My research interest includes explainable AI model, computer vision, and smart medicine.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Programming skills:
+  C/C++, Python(PyTorch, OpenCV), Web Programming
 
 content:
   - title: Projects # Title for the section
