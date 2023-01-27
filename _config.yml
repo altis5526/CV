@@ -86,13 +86,14 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Research intern
         # link_text: boringcompany.com
         sub_title: Multimedia Information System Lab (National Tsing Hua University)
         caption: September 2021 - Present
-#         description: |
-#           I am a medical student studying in National Yang Ming Chiao Tung University, 
+        description: |
+          - Multimedia Information System Lab (National Tsing Hua University)
+          (September 2021 - Present)
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
