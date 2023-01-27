@@ -70,6 +70,7 @@ content:
         title: National Yang Ming Chiao Tung University
         # link_text: Project Website
         subtitle: Medical student minoring with computer science
+        caption: September 2016 - Present
 #         additional_links:
 #           - title:  sproogen/modern-resume-theme
 #             icon: fab fa-github
@@ -88,7 +89,7 @@ content:
       - layout: top-middle
         title: Research intern
         # link_text: boringcompany.com
-        sub_title: Medical student minoring with computer science
+        sub_title: MISLAB
         caption: September 2016 - Present
         description: |
           I am a medical student studying in National Yang Ming Chiao Tung University, 
