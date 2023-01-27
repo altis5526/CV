@@ -97,11 +97,13 @@ content:
           - Lab of Tzyh-Chang Hwang, University of Missouri (July 2018 - August 2018)
           - Lab of Yeou-Guang Tsay, National Yang Ming Chiao Tung University (July 2017 - August 2017)
             
-  - title: Education # Title for the section
+  - title: Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: |
+        - First place
+        - Second place
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >
