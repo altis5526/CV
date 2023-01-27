@@ -89,11 +89,13 @@ content:
       - layout: left
         title: Research intern
         # link_text: boringcompany.com
-        sub_title: Multimedia Information System Lab (National Tsing Hua University)
-        caption: September 2021 - Present
+#         sub_title: Multimedia Information System Lab (National Tsing Hua University)
+#         caption: September 2021 - Present
         description: |
-          - Multimedia Information System Lab (National Tsing Hua University)
-          (September 2021 - Present)
+          - Multimedia Information System Lab, National Tsing Hua University (September 2021 - Present)
+          - Neural Circuits and Cognition Lab, National Yang Ming Chiao Tung University (July 2019 - August 2019)
+          - Lab of Tzyh-Chang Hwang, University of Missouri (July 2018 - August 2018)
+          - Lab of Yeou-Guang Tsay, National Yang Ming Chiao Tung University (July 2017 - August 2017)
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
