@@ -69,7 +69,7 @@ content:
       - layout: top-middle
         title: National Yang Ming Chiao Tung University
         # link_text: Project Website
-        subtitle: Medical student minoring with computer science
+        sub_title: Medical student minoring with computer science
         caption: September 2016 - Present
 #         additional_links:
 #           - title:  sproogen/modern-resume-theme
@@ -89,10 +89,10 @@ content:
       - layout: top-middle
         title: Research intern
         # link_text: boringcompany.com
-        sub_title: MISLAB
-        caption: September 2016 - Present
-        description: |
-          I am a medical student studying in National Yang Ming Chiao Tung University, 
+        sub_title: Multimedia Information System Lab (National Tsing Hua University)
+        caption: September 2021 - Present
+#         description: |
+#           I am a medical student studying in National Yang Ming Chiao Tung University, 
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
