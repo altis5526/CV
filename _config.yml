@@ -119,9 +119,12 @@ content:
           IEEE CIS Student Hackathon on Computational Intelligence in Biomedicine and Healthcare
 
   - title: Publications
-    layout: top-middle
-    content: | # this will include new lines to allow paragraphs
-      C. -Y. Chen et al., "Computer Vision Based Cognition Assessment for Developmental-Behavioral Screening," 2022 IEEE International Conference on Digital Health (ICDH), Barcelona, Spain, 2022, pp. 151-156, doi: 10.1109/ICDH55609.2022.00031.
+    layout: list
+    content: 
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          C. -Y. Chen et al., "Computer Vision Based Cognition Assessment for Developmental-Behavioral Screening," 2022 IEEE International Conference on Digital Health (ICDH), Barcelona, Spain, 2022, pp. 151-156, doi: 10.1109/ICDH55609.2022.00031.
+      
 
 # Footer
 footer_show_references: true
