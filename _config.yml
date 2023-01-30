@@ -106,12 +106,14 @@ content:
         description: |
           IEEE International Conference on Digital Health (ICDH) Student Competition
       - layout: left
-        title: First Place (Team leader)
+        title: First Place
+        subtitle: Team leader
         caption: 2022
         description: | # this will include new lines to allow paragraphs
           AI CUP 2022 MOE AI competition and labeled data acquisition project - Lung Adenocarcinoma Pathological Section Images: Tumor Airway Spread Detection Competition 1
       - layout: left
         title: Second Place
+        subtitle: Team leader
         caption: 2022
         description: |
           IEEE CIS Student Hackathon on Computational Intelligence in Biomedicine and Healthcare
