@@ -116,17 +116,10 @@ content:
         description: |
           IEEE CIS Student Hackathon on Computational Intelligence in Biomedicine and Healthcare
 
-  - title: A Little More About Me
-    layout: text
+  - title: Publications
+    layout: top-middle
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      C. -Y. Chen et al., "Computer Vision Based Cognition Assessment for Developmental-Behavioral Screening," 2022 IEEE International Conference on Digital Health (ICDH), Barcelona, Spain, 2022, pp. 151-156, doi: 10.1109/ICDH55609.2022.00031.
 
 # Footer
 footer_show_references: true
