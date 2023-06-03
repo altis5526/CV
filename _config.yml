@@ -48,7 +48,7 @@ linkedin_username: chi-yu-chen-10a149221
 # about_title: About Me
 about_profile_image: https://i.imgur.com/Bo3BfqQ.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Chi-Yu, Chen, currently a <b>fifth grade medical student with a minor in computer science</b> in <b>National Yang Ming Chiao Tung University, Taiwan</b>. 
+  Hi, I'm Chi-Yu, Chen (陳祺侑), currently a <b>fifth grade medical student with a minor in computer science</b> in <b>National Yang Ming Chiao Tung University, Taiwan</b>. 
   My research interest includes <b>explainable AI model</b>, <b>computer vision</b>, and <b>smart medicine</b>.
 
   Programming skills:
@@ -124,7 +124,7 @@ content:
           C. -Y. Chen et al., "Computer Vision Based Cognition Assessment for Developmental-Behavioral Screening," 2022 IEEE International Conference on Digital Health (ICDH), Barcelona, Spain, 2022, pp. 151-156, doi: 10.1109/ICDH55609.2022.00031.
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          施伶潔, 陳祺侑(Me), & 孫英洲. (2023). 淺談可解釋性人工智慧於醫學影像之應用. 臨床醫學月刊, 91(2), 78-87.
+          施伶潔, 陳祺侑, & 孫英洲. (2023). 淺談可解釋性人工智慧於醫學影像之應用. 臨床醫學月刊, 91(2), 78-87.
       
       
 
