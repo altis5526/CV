@@ -1,6 +1,6 @@
 # Site
 repository: altis5526/personal-page
-favicon: images/favicon.ico
+favicon: https://i.imgur.com/Bo3BfqQ.jpg
 
 # Content configuration version
 version: 2
@@ -122,6 +122,10 @@ content:
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
           C. -Y. Chen et al., "Computer Vision Based Cognition Assessment for Developmental-Behavioral Screening," 2022 IEEE International Conference on Digital Health (ICDH), Barcelona, Spain, 2022, pp. 151-156, doi: 10.1109/ICDH55609.2022.00031.
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          施伶潔, 陳祺侑(Me), & 孫英洲. (2023). 淺談可解釋性人工智慧於醫學影像之應用. 臨床醫學月刊, 91(2), 78-87.
+      
       
 
 # Footer
