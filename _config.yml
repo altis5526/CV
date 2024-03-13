@@ -120,6 +120,9 @@ content:
     layout: list
     content: 
       - layout: top-middle
+        description: |
+          Chen, C. Y., Ching, P., Huang, P. H., & Hu, M. C. (2024, January). Where Are Biases? Adversarial Debiasing with Spurious Feature Visualization. In International Conference on Multimedia Modeling (pp. 1-14). Cham: Springer Nature Switzerland.
+      - layout: top-middle
         description: | # this will include new lines to allow paragraphs
           C. -Y. Chen et al., "Computer Vision Based Cognition Assessment for Developmental-Behavioral Screening," 2022 IEEE International Conference on Digital Health (ICDH), Barcelona, Spain, 2022, pp. 151-156, doi: 10.1109/ICDH55609.2022.00031.
       - layout: top-middle
