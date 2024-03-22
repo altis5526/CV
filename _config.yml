@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   My research interest includes <b>explainable AI model</b>, <b>computer vision</b>, and <b>smart medicine</b>.
 
   Programming skills:
-  <b>C/C++</b>, <b>Python (PyTorch, OpenCV)</b>, <b>Web Programming</b>, iiiiiiiiiiiiiii
+  <b>C/C++</b>, <b>Python (PyTorch, OpenCV)</b>, <b>Web Programming</b>
 
 # content:
 #   - title: Awards
