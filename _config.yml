@@ -96,8 +96,6 @@ content:
           - Neural Circuits and Cognition Lab, National Yang Ming Chiao Tung University (July 2019 - August 2019)
           - Lab of Tzyh-Chang Hwang, University of Missouri (July 2018 - August 2018)
           - Lab of Yeou-Guang Tsay, National Yang Ming Chiao Tung University (July 2017 - August 2017)
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Project instructor
         # link_text: boringcompany.com
@@ -105,8 +103,6 @@ content:
 #         caption: September 2021 - Present
         description: |
           - 11210CS 555300 National Tsing Hua University Data Science for Digital Health (Oct 2023-Jan 2024)
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Teaching assistant
         # link_text: boringcompany.com
